@@ -11,6 +11,14 @@ This project plots the distribution of outputs from LeetCode problem [1046. Last
 * InfluxDB
 * Grafana
 
+# Resolving dependencies
+
+| name | version |
+| --- | --- |
+| Python | 3.13.0 |
+| kafka-python | 2.0.3.dev0 |
+| influxdb-client | 1.48.0 |
+
 # How to run it?
 
 1. Run `docker-compose up -d`;
