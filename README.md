@@ -11,6 +11,10 @@ This project plots the distribution of outputs from LeetCode problem [1046. Last
 * InfluxDB
 * Grafana
 
+# Architecture
+
+![](https://github.com/lantenak/last_stone_weight/blob/main/images/architecture.png)
+
 # Resolving dependencies
 
 | name | version |
