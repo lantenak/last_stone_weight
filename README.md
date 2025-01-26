@@ -1,6 +1,7 @@
 # What is it?
 
-This project plots the distribution of outputs from LeetCode problem [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
+This project plots the distribution of outputs from LeetCode problem [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)  
+This repository uses code from the [NeetCode](https://www.youtube.com/@NeetCode) YouTube channel
 
 ![](https://github.com/lantenak/last_stone_weight/blob/main/images/stone_head.jpg)
 
